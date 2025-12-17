@@ -11,9 +11,6 @@ function ContactUs() {
           </div>
           <hr className="border-0 h-0.5 bg-gradient-to-r from-transparent via-red-600 to-transparent shadow-[0px_0px_4px_rgbpl-20,38,0.6)] hover:shadow-[0px_0px_8px_rgba(220,38,38,0.8)] transition-all duration-300" />
           
-          <div className="pl-24">
-            <p className="text-md"><strong>Sayan Das</strong> - <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sayan14dec@gmail.com" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:text-blue-300 no-underline">sayan14dec@gmail.com</a></p>
-          </div>
           <hr className="border-0 h-0.5 bg-gradient-to-r from-transparent via-red-600 to-transparent shadow-[0px_0px_4px_rgba(220,38,38,0.6)] hover:shadow-[0px_0px_8px_rgba(220,38,38,0.8)] transition-all duration-300" />
           
           
@@ -32,9 +29,6 @@ function ContactUs() {
           </div>
           <hr className="border-0 h-0.5 bg-gradient-to-r from-transparent via-red-600 to-transparent shadow-[0px_0px_4px_rgba(220,38,38,0.6)] hover:shadow-[0px_0px_8px_rgba(220,38,38,0.8)] transition-all duration-300" />
           
-          <div className="pl-24">
-            <p className="text-md"><strong>Rahul Rajak</strong> - <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rahulrajak10169@gmail.com" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:text-blue-300 no-underline">rahulrajak10169@gmail.com</a></p>
-          </div>
         </div>
       </div>
     </>
