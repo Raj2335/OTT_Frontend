@@ -7,13 +7,5 @@ export default defineConfig({
   plugins: [react(), tailwindcss()],
   server: {
     port: 3000,
-    proxy: {
-      "/api": {
-        target: "https://ott-backend-rcu7.onrender.com",
-        changeOrigin: true,
-        secure: false,
-        credentials: true,
-      },
-    },
   },
 });
