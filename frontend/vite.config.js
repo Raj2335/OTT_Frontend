@@ -9,7 +9,7 @@ export default defineConfig({
     port: 3000,
     proxy: {
       "/api": {
-        target: "http://localhost:8000",
+        target: "https://ott-backend-rcu7.onrender.com",
         changeOrigin: true,
         secure: false,
         credentials: true,
