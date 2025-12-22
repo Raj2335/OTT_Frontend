@@ -11,7 +11,6 @@ function ContactUs() {
           </div>
           <hr className="border-0 h-0.5 bg-gradient-to-r from-transparent via-red-600 to-transparent shadow-[0px_0px_4px_rgbpl-20,38,0.6)] hover:shadow-[0px_0px_8px_rgba(220,38,38,0.8)] transition-all duration-300" />
           
-          <hr className="border-0 h-0.5 bg-gradient-to-r from-transparent via-red-600 to-transparent shadow-[0px_0px_4px_rgba(220,38,38,0.6)] hover:shadow-[0px_0px_8px_rgba(220,38,38,0.8)] transition-all duration-300" />
           
           
           <div className="pl-24">
